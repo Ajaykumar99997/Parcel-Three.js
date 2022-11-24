@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  overflow: hidden;
+}
+
+.webgl {
+  outline: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
