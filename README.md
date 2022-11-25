@@ -1,5 +1,7 @@
 # Parcel-Three.js
 
+## Download Node.js. Run this followed commands:
+
 ### `npm install`
 
 Install dependencies.
